@@ -3,3 +3,5 @@ obj/
 *.db
 *.zip
 *.exe
+node_module
+
