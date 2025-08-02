@@ -4,4 +4,5 @@ obj/
 *.zip
 *.exe
 node_module
+*.env
 
